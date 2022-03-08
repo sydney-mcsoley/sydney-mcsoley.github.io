@@ -24,4 +24,10 @@
 
 ## Blog
 
-  1. [**Tarorific in the Bay Area**] (Project1.html) | March 2022
+  1.  [STATS 118 Project Report Godin McSoley (1).pdf](https://github.com/sydney-mcsoley/sydney-mcsoley.github.io/files/8201639/STATS.118.Project.Report.Godin.McSoley.1.pdf)
+| December 2021
+## Links
+
+- LinkedIn : https://www.linkedin.com/in/sydney-mcsoley-723739206/
+- Email: sydney.mcsoley@simmons.edu 
+- Resume: [McSoley, Sydney Resume 21.09.2021  (4).pdf](https://github.com/sydney-mcsoley/sydney-mcsoley.github.io/files/8201632/McSoley.Sydney.Resume.21.09.2021.4.pdf)
