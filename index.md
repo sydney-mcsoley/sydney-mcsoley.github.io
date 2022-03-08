@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Sydney McSoley
 
-You can use the [editor on GitHub](https://github.com/sydney-mcsoley/sydney-mcsoley.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Bio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  I am a third-year student at Simmons University studying Biostatistics. I have taken a variety of courses, including Introduction to Statistics, Calculus I, Calculus II, Introduction to Data Science, and Linear Algebra. I have also taken Elementary Spanish I and II, Physics I, and Introduction to Organic Chemistry. I have worked as a Learning Assistant for Dr. Shreya Bhattacharyya for Introduction to Inorganic Chemistry and in the Simmons Admissions office as a tour guide. Additionally, I work for the Cam Neely House at Tufts Medical Center, which is a nonprofit organization that helps reduce the financial burden of lodging for patients receiving treatment.
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Simmons University** | Boston, MA
 
-```markdown
-Syntax highlighted code block
+- B.S. in Biostatistics 
 
-# Header 1
-## Header 2
-### Header 3
+**Rising Tide Charter School** | Plymouth, MA
 
-- Bulleted
-- List
+- High school diploma
 
-1. Numbered
-2. List
+## Experience 
 
-**Bold** and _Italic_ and `Code` text
+**Simmons University** | Chemistry 111 Learning Assistant | August 2021 - present
 
-[Link](url) and ![Image](src)
-```
+**Cam Neely House** | Guest Services Representative | June 2021 - present
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Walmart Supercenter** | Personal Grocery Shopper | May 2020 - September 2021
 
-### Jekyll Themes
+## Blog
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sydney-mcsoley/sydney-mcsoley.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  1. [**Tarorific in the Bay Area**] (Project1.html) | March 2022
